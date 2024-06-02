@@ -25,6 +25,8 @@
     "astro-compress": "^2.2.15",
     "astro-icon": "1.1.0",
     "colorjs.io": "^0.5.0",
+    "fa6-brands:bilibili": "link:@iconify-json/fa6-brands:bilibili",
+    "fa6-brands:qq": "link:@iconify-json/fa6-brands:qq",
     "hastscript": "^9.0.0",
     "markdown-it": "^14.1.0",
     "mdast-util-to-string": "^4.0.0",
